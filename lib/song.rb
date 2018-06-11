@@ -19,11 +19,11 @@ class Song
   def name
     @name
   end
-  
+
   def artist
     @artist
   end
-  
+
   def genre
     @genre
   end
