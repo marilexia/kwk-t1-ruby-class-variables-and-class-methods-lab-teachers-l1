@@ -20,6 +20,10 @@ class Song
     @@count
   end
 
+  def self.artist_count
+    @@artist_count
+  end
+
 
   def name
     @name
