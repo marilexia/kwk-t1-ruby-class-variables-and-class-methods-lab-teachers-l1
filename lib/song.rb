@@ -1,5 +1,5 @@
 class Song
-
+@@count = 0
 
   attr_accessor :name, :artist, :genre
 
@@ -20,7 +20,6 @@ class Song
   def genre
     @genre
   end
-
 
 
 end
