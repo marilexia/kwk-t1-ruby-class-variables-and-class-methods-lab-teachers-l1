@@ -45,7 +45,6 @@ class Song
     return artist_hash
   end
 
-
   def name
     @name
   end
